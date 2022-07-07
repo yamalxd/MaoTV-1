@@ -1,6 +1,6 @@
 {
 // spider
-"spider":"http://tv.steveee.xyz/files/62c523ad07074/qiaoji07061026.jar",
+"spider":"https://github.com/yamalxd/MaoTV-1/blob/e519dbfdcc11af63505ebd4e5c4f4f7f49de3036/qiaoji07061026.jar",
 
 // 直播
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL3R2LnN0ZXZlZWUueHl6L2ZpbGVzLzYyYzRkZjhmNjA5YWUvbXl0diUyMCgxKS50eHQ="]}]}],
